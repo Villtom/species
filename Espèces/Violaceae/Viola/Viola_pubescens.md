@@ -12,13 +12,15 @@
 
 ## Traits distinctifs
 
-- Plante possédant généralement une seule tige érigée et pas de feuilles basales
+- Plante possédant généralement une seule tige érigée et aucune feuilles basales
 - Feuilles caulinaires restreintes dans le quart supérieur des tiges
 - Feuilles densément garnies de poils de plus de 0.2 mm de long sur la face inférieure
 
 ## Espèces semblables
 
-La violette pubescente ressemble grandement à la violette scabre _Viola eriocarpa_ mais s'en distingue par ses tiges généralement solitaires et érigés ainsi que par la présence d'auncune ou d'une seule feuille basilaire. Chez la violette scabre, les individus possèdent plusieurs tiges, qui sont décombantes à la base, ainsi que plusieurs feuilles basialires. De plus, _V. eriocarpa_ possède des feuilles glabres ou avec des poils courts et rigides sur la face inférieure tandis qu'elles sont densément hirstutes chez _V. pubescens_. La violette à feuilles rondes _Viola rotundifolia_ peut ressembler superficielement à la violette scarbre mais s'en distingue facilement par ses feuilles toutes basilaires. 
+La violette pubescente ressemble grandement à la violette scabre (_Viola eriocarpa_) mais s'en distingue par ses tiges généralement solitaires et érigées ainsi que par la présence d'aucune ou d'une seule feuille basilaire. Chez la violette scabre, les individus possèdent plusieurs tiges, qui sont décombantes à la base, ainsi que plusieurs feuilles basialires. De plus, _V. eriocarpa_ possède des feuilles glabres ou avec des poils courts et rigides sur la face inférieure tandis qu'elles sont densément hirstutes chez _V. pubescens_. 
+
+La violette à feuilles rondes (_Viola rotundifolia_) peut ressembler superficiellement à la violette scarbre mais s'en distingue facilement par ses feuilles entièrement basilaires. 
 
 ## Habitat
 
@@ -26,6 +28,6 @@ Sols sableux ou graveleux des forêts sèches à mésiques et pentes bien drain�
 
 ## Commentaires
 
-Sur le territoire québécois, cette espèce est beaucoup plus rare que la violette scabre. Sous nos latitude, la violette pubescente semble associée aux érablières riches du sud du Québec.
+Sur le territoire québécois, cette espèce est beaucoup plus rare que la violette scabre. Sous nos latitudes, la violette pubescente semble associée aux érablières riches du sud du Québec.
 
 
